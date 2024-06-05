@@ -1,0 +1,3 @@
+com.yoyo.module3.bean.DemoDao=\
+  com.yoyo.module3.bean.DemoOracleDaoImpl,\
+  com.yoyo.module3.bean.DemoMysqlDaoImpl
